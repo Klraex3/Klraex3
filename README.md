@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 🏎️ Avid Motorsports Fan
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21hdsgaam6wwbedj2oiejjzei)
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21hdsgaam6wwbedj2oiejjzei)](https://open.spotify.com/user/21hdsgaam6wwbedj2oiejjzei)
+- 📺 I like Anime
+- 🎵 Check my Spotify at https://spoti.fi/31KVvTN
 
 
 <!---
