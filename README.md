@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Klraex3
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
+- 🏎️ Avid Motorsports Fan
+- 📺 I like Anime
+- 🎵 Check my Spotify at https://spoti.fi/31KVvTN
 
 
 <!---
