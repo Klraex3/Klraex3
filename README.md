@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 🏎️ Avid Motorsports Fan
 - 📺 I like Anime
-- 🎵 Check my Spotify at https://spoti.fi/31KVvTN
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21hdsgaam6wwbedj2oiejjzei)
 
 
 <!---
