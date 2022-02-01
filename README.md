@@ -4,7 +4,7 @@
 - 📺 I like Anime
 - 📷 Check my stuff at www.instagram.com/your.art.senpai
 - 🎵 Check my Spotify at https://spoti.fi/31KVvTN
-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21hdsgaam6wwbedj2oiejjzei)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21hdsgaam6wwbedj2oiejjzei)
 
 
 <!---
